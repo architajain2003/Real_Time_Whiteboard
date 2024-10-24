@@ -1,4 +1,3 @@
-# `The Curent version does not support mobiles Devices
 
 ## About The Project
 

@@ -53,7 +53,7 @@ Then run the following commands.
 
 ### Clone the repo
    ```sh
-   git clone git@github.com:sd012gfhkhhvh/LiveScribe.git
+   git clone https://github.com/architajain2003/Real_Time_Whiteboard.git
    ```
 #### Client
 
